@@ -4779,7 +4779,7 @@ input.main-search-input::placeholder {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(../../assets/img/shape/overlay-shape.png);
+    background-image: url(../images/shape/overlay-shape.png);
     transition: all 0.3s ease-in-out;
   }
   .fooder-menu-wrapper .food-menu-items .food-menu-content h4,
@@ -4822,7 +4822,7 @@ input.main-search-input::placeholder {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url(../../assets/img/shape/overlay-shape.png);
+  background-image: url(../images/shape/overlay-shape.png);
 }
 .fooder-menu-wrapper .food-menu-items:hover .food-menu-content h4,
 .fooder-menu-wrapper .food-menu-items:hover .food-menu-content p {
@@ -4851,7 +4851,7 @@ input.main-search-input::placeholder {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url(../../assets/img/shape/overlay-shape.png);
+  background-image: url(../images/shape/overlay-shape.png);
   transition: all 0.3s ease-in-out;
 }
 .fooder-menu-wrapper .food-menu-items.active .food-menu-content h4,
@@ -6111,7 +6111,7 @@ input.main-search-input::placeholder {
   width: 80%;
   height: 1px;
   content: "";
-  background-image: url(../../assets/img/border.png);
+  background-image: url(../images/border.png);
 }
 @media (max-width: 1399px) {
   .food-processing-wrapper::before {
@@ -9769,7 +9769,7 @@ input.main-search-input::placeholder {
   height: 100%;
   content: "";
   background-repeat: no-repeat;
-  background-image: url(../../assets/img/arrow.png);
+  background-image: url(../images/arrow.png);
   animation: 4s linear 0s infinite normal none running rounded-2;
 }
 .today-best-sale-wrapper .best-sale-content h3 span {
@@ -10170,7 +10170,7 @@ input.main-search-input::placeholder {
   background-color: var(--white);
   box-shadow: 0px 4px 31px 0px rgba(0, 0, 0, 0.04);
   z-index: -1;
-  background-image: url(../../assets/img/client/bg-shape.png);
+  background-image: url(../images/client/bg-shape.png);
 }
 
 .testimonial-wrapper-2 {
