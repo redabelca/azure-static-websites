@@ -1,0 +1,11 @@
+{
+  "name": "redabelca-static-websites",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "echo \"Build was successfully completed\"",
+    "start": "echo \"Start was done\""
+  },
+  "author": "",
+  "license": "ISC"
+}
